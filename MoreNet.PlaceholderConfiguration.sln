@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreNet.PlaceholderConfiguration", "MoreNet.PlaceholderConfiguration\MoreNet.PlaceholderConfiguration.csproj", "{4F47E856-7F9D-46D0-845F-BDE128BA1DB5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreNet.PlaceholderConfiguration.Demo", "MoreNet.PlaceholderConfiguration.Demo\MoreNet.PlaceholderConfiguration.Demo.csproj", "{239F2653-5A03-462C-BE28-E4DBFC1E0ED9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C7E3BB1E-A52B-4DC1-9810-924BB6F2CF57}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F47E856-7F9D-46D0-845F-BDE128BA1DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F47E856-7F9D-46D0-845F-BDE128BA1DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F47E856-7F9D-46D0-845F-BDE128BA1DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F47E856-7F9D-46D0-845F-BDE128BA1DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{239F2653-5A03-462C-BE28-E4DBFC1E0ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239F2653-5A03-462C-BE28-E4DBFC1E0ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239F2653-5A03-462C-BE28-E4DBFC1E0ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239F2653-5A03-462C-BE28-E4DBFC1E0ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCCB2640-EAC8-4BCA-9392-3ACDA226B67F}
+	EndGlobalSection
+EndGlobal
