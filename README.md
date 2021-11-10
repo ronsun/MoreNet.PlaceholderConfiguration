@@ -1,5 +1,5 @@
 ### What's this
-This is an extension to make configuration support placeholder with environment variable.  
+This is an extension to replace placeholder in configuration by environment variable.  
 The format of placeholder is `${The_Variable}`, and it will replced by value set in environment variable. It support `reloadOnChange` except environment variables.  
 
 ### How to use
