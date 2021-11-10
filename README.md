@@ -1,6 +1,6 @@
-### What's this
-This is an extension to make configuration support placeholder with environment variable.  
-The format of placeholder is `${The_Variable}`, and it will replced by value set in environment variable. It support `reloadOnChange` except environment variables.  
+### Introduce
+This is designed to offer functionality that replaces placeholders in configuration files with environment variables.
+Placeholders follow the format `${The_Variable}`. The solution supports `reloadOnChange` except environment variables.  
 
 ### How to use
 ##### Program.cs
