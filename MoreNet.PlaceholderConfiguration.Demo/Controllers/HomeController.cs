@@ -10,8 +10,8 @@ namespace MoreNet.PlaceholderConfiguration.Demo.Controllers
     [Route("[controller]")]
     public class HomeController : ControllerBase
     {
-        private IOptionsMonitor<ServerInfo> _serverInfo;
-        private IConfiguration _config;
+        private readonly IOptionsMonitor<ServerInfo> _serverInfo;
+        private readonly IConfiguration _config;
 
         public HomeController(IOptionsMonitor<ServerInfo> serverInfo, IConfiguration config)
         {

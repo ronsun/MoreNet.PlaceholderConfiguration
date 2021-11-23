@@ -35,7 +35,7 @@ namespace MoreNet.PlaceholderConfiguration.Helpers
                         // ex: myValue
                         var realValue = $"{environmentVariables[key]}";
                         var placeholder = "${" + key + "}";
-                        data[dataItem.Key] = data[dataItem.Key].Replace(placeholder, realValue);
+                        data[dataItem.Key] = data[dataItem.Key].Replace(placeholder, realValue, StringComparison.Ordinal);
                     }
                 }
             }
