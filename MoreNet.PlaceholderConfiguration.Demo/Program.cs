@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
+using MoreNet.PlaceholderConfiguration.Extensions;
 
 namespace MoreNet.PlaceholderConfiguration.Demo
 {

@@ -1,8 +1,8 @@
-﻿using Microsoft.Extensions.FileProviders;
-using MoreNet.PlaceholderConfiguration;
+﻿using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.FileProviders;
 using System;
 
-namespace Microsoft.Extensions.Configuration
+namespace MoreNet.PlaceholderConfiguration.Extensions
 {
     /// <summary>
     /// Extensinos for <see cref="ConfigurationBuilderExtensions"/>.
