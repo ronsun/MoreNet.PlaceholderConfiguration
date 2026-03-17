@@ -5,7 +5,7 @@ using System;
 namespace MoreNet.PlaceholderConfiguration.Extensions
 {
     /// <summary>
-    /// Extensinos for <see cref="ConfigurationBuilderExtensions"/>.
+    /// Extensions for <see cref="ConfigurationBuilderExtensions"/>.
     /// </summary>
     public static class ConfigurationBuilderExtensions
     {

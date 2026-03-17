@@ -26,7 +26,7 @@ namespace MoreNet.PlaceholderConfiguration.Demo.Controllers
             {
                 "Server info: " + _serverInfo.CurrentValue.Data,
                 "Server info from IConfiguration: " + _config.GetValue<string>("ServerInfo:Data"),
-                "Default loging level: " + _config.GetValue<string>("Logging:LogLevel:Default"),
+                "Default logging level: " + _config.GetValue<string>("Logging:LogLevel:Default"),
             }
             .Aggregate((left, right) => left + "\r\n" + right);
         }

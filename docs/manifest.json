@@ -14,7 +14,7 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions",
-      "Summary": "<p sourcefile=\"api/MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.yml\" sourcestartlinenumber=\"1\">Extensinos for <xref href=\"MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions\" data-throw-if-not-resolved=\"false\"></xref>.</p>\n"
+      "Summary": "<p sourcefile=\"api/MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.yml\" sourcestartlinenumber=\"1\">Extensions for <xref href=\"MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions\" data-throw-if-not-resolved=\"false\"></xref>.</p>\n"
     },
     {
       "type": "ManagedReference",
