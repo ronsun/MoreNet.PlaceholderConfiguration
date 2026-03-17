@@ -1,10 +1,16 @@
-### Introduce
-This is designed to offer functionality that replaces placeholders in configuration files with environment variables.
-Placeholders follow the format `${The_Variable}`. The solution supports `reloadOnChange` except environment variables.  
+# MoreNet PlaceholderConfiguration
 
-### How to use
-##### Program.cs
-``` csharp
+This library replaces placeholders in configuration files with environment variables.
+
+## Introduction
+
+Placeholders follow the format `${The_Variable}`. The solution supports `reloadOnChange`, except for environment variables.
+
+## Usage
+
+### Program.cs
+
+```csharp
 public class Program
 {
     public static void Main(string[] args)
@@ -31,8 +37,9 @@ public class Program
 }
 ```
 
-##### Configure appsettings.json
-``` json
+### Configure `appsettings.json`
+
+```json
 {
   "Logging": {
     "LogLevel": {
@@ -48,14 +55,17 @@ public class Program
 }
 ```
 
-##### Environment variables
+### Environment variables
+
 ```
 SERVER_NAME=Ron's Server  
 SERVER_IP=1.1.1.1  
 ```
 
-### Demo
+## Demo
+
 [Demo Project](MoreNet.PlaceholderConfiguration.Demo)
 
-### Others
-See [API Doc](https://ronsun.github.io/MoreNet.PlaceholderConfiguration/api) for APIs.
+## Documentation
+
+See the [API documentation](https://ronsun.github.io/MoreNet.PlaceholderConfiguration/api) for the full API reference.
