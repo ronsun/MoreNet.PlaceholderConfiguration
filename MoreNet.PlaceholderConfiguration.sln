@@ -14,7 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tools", "tools", "{07C2787E-EAC7-C090-1BA3-A61EC2A24D84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreNet.PlaceholderConfiguration.DocFx", "tools\MoreNet.PlaceholderConfiguration.DocFx\MoreNet.PlaceholderConfiguration.DocFx.csproj", "{1ED1BC78-A019-432A-8791-5511D0BEB4BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreNet.PlaceholderConfiguration.Docfx", "tools\MoreNet.PlaceholderConfiguration.Docfx\MoreNet.PlaceholderConfiguration.Docfx.csproj", "{1ED1BC78-A019-432A-8791-5511D0BEB4BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
