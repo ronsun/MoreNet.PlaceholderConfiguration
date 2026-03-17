@@ -1,0 +1,103 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: MoreNet.PlaceholderConfiguration
+  name: MoreNet.PlaceholderConfiguration
+  href: api/MoreNet.PlaceholderConfiguration.html
+  commentId: N:MoreNet.PlaceholderConfiguration
+  fullName: MoreNet.PlaceholderConfiguration
+  nameWithType: MoreNet.PlaceholderConfiguration
+- uid: MoreNet.PlaceholderConfiguration.Extensions
+  name: MoreNet.PlaceholderConfiguration.Extensions
+  href: api/MoreNet.PlaceholderConfiguration.Extensions.html
+  commentId: N:MoreNet.PlaceholderConfiguration.Extensions
+  fullName: MoreNet.PlaceholderConfiguration.Extensions
+  nameWithType: MoreNet.PlaceholderConfiguration.Extensions
+- uid: MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions
+  name: ConfigurationBuilderExtensions
+  href: api/MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.html
+  commentId: T:MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions
+  fullName: MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions
+  nameWithType: ConfigurationBuilderExtensions
+- uid: MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.AddPlaceholderJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder,System.Action{MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource})
+  name: AddPlaceholderJsonFile(IConfigurationBuilder, Action<PlaceholderJsonConfigurationSource>)
+  href: api/MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.html#MoreNet_PlaceholderConfiguration_Extensions_ConfigurationBuilderExtensions_AddPlaceholderJsonFile_Microsoft_Extensions_Configuration_IConfigurationBuilder_System_Action_MoreNet_PlaceholderConfiguration_PlaceholderJsonConfigurationSource__
+  commentId: M:MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.AddPlaceholderJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder,System.Action{MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource})
+  name.vb: AddPlaceholderJsonFile(IConfigurationBuilder, Action(Of PlaceholderJsonConfigurationSource))
+  fullName: MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.AddPlaceholderJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder, System.Action<MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource>)
+  fullName.vb: MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.AddPlaceholderJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder, System.Action(Of MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource))
+  nameWithType: ConfigurationBuilderExtensions.AddPlaceholderJsonFile(IConfigurationBuilder, Action<PlaceholderJsonConfigurationSource>)
+  nameWithType.vb: ConfigurationBuilderExtensions.AddPlaceholderJsonFile(IConfigurationBuilder, Action(Of PlaceholderJsonConfigurationSource))
+- uid: MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.AddPlaceholderJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder,System.String,System.Boolean,System.Boolean,Microsoft.Extensions.FileProviders.IFileProvider)
+  name: AddPlaceholderJsonFile(IConfigurationBuilder, string, bool, bool, IFileProvider)
+  href: api/MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.html#MoreNet_PlaceholderConfiguration_Extensions_ConfigurationBuilderExtensions_AddPlaceholderJsonFile_Microsoft_Extensions_Configuration_IConfigurationBuilder_System_String_System_Boolean_System_Boolean_Microsoft_Extensions_FileProviders_IFileProvider_
+  commentId: M:MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.AddPlaceholderJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder,System.String,System.Boolean,System.Boolean,Microsoft.Extensions.FileProviders.IFileProvider)
+  name.vb: AddPlaceholderJsonFile(IConfigurationBuilder, String, Boolean, Boolean, IFileProvider)
+  fullName: MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.AddPlaceholderJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder, string, bool, bool, Microsoft.Extensions.FileProviders.IFileProvider)
+  fullName.vb: MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.AddPlaceholderJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder, String, Boolean, Boolean, Microsoft.Extensions.FileProviders.IFileProvider)
+  nameWithType: ConfigurationBuilderExtensions.AddPlaceholderJsonFile(IConfigurationBuilder, string, bool, bool, IFileProvider)
+  nameWithType.vb: ConfigurationBuilderExtensions.AddPlaceholderJsonFile(IConfigurationBuilder, String, Boolean, Boolean, IFileProvider)
+- uid: MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.AddPlaceholderJsonFile*
+  name: AddPlaceholderJsonFile
+  href: api/MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.html#MoreNet_PlaceholderConfiguration_Extensions_ConfigurationBuilderExtensions_AddPlaceholderJsonFile_
+  commentId: Overload:MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.AddPlaceholderJsonFile
+  isSpec: "True"
+  fullName: MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.AddPlaceholderJsonFile
+  nameWithType: ConfigurationBuilderExtensions.AddPlaceholderJsonFile
+- uid: MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider
+  name: PlaceholderJsonConfigurationProvider
+  href: api/MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.html
+  commentId: T:MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider
+  fullName: MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider
+  nameWithType: PlaceholderJsonConfigurationProvider
+- uid: MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.#ctor(MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource)
+  name: PlaceholderJsonConfigurationProvider(PlaceholderJsonConfigurationSource)
+  href: api/MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.html#MoreNet_PlaceholderConfiguration_PlaceholderJsonConfigurationProvider__ctor_MoreNet_PlaceholderConfiguration_PlaceholderJsonConfigurationSource_
+  commentId: M:MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.#ctor(MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource)
+  name.vb: New(PlaceholderJsonConfigurationSource)
+  fullName: MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.PlaceholderJsonConfigurationProvider(MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource)
+  fullName.vb: MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.New(MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource)
+  nameWithType: PlaceholderJsonConfigurationProvider.PlaceholderJsonConfigurationProvider(PlaceholderJsonConfigurationSource)
+  nameWithType.vb: PlaceholderJsonConfigurationProvider.New(PlaceholderJsonConfigurationSource)
+- uid: MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.#ctor*
+  name: PlaceholderJsonConfigurationProvider
+  href: api/MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.html#MoreNet_PlaceholderConfiguration_PlaceholderJsonConfigurationProvider__ctor_
+  commentId: Overload:MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.PlaceholderJsonConfigurationProvider
+  fullName.vb: MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.New
+  nameWithType: PlaceholderJsonConfigurationProvider.PlaceholderJsonConfigurationProvider
+  nameWithType.vb: PlaceholderJsonConfigurationProvider.New
+- uid: MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.Load(System.IO.Stream)
+  name: Load(Stream)
+  href: api/MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.html#MoreNet_PlaceholderConfiguration_PlaceholderJsonConfigurationProvider_Load_System_IO_Stream_
+  commentId: M:MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.Load(System.IO.Stream)
+  fullName: MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.Load(System.IO.Stream)
+  nameWithType: PlaceholderJsonConfigurationProvider.Load(Stream)
+- uid: MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.Load*
+  name: Load
+  href: api/MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.html#MoreNet_PlaceholderConfiguration_PlaceholderJsonConfigurationProvider_Load_
+  commentId: Overload:MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.Load
+  isSpec: "True"
+  fullName: MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.Load
+  nameWithType: PlaceholderJsonConfigurationProvider.Load
+- uid: MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource
+  name: PlaceholderJsonConfigurationSource
+  href: api/MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource.html
+  commentId: T:MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource
+  fullName: MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource
+  nameWithType: PlaceholderJsonConfigurationSource
+- uid: MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource.Build(Microsoft.Extensions.Configuration.IConfigurationBuilder)
+  name: Build(IConfigurationBuilder)
+  href: api/MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource.html#MoreNet_PlaceholderConfiguration_PlaceholderJsonConfigurationSource_Build_Microsoft_Extensions_Configuration_IConfigurationBuilder_
+  commentId: M:MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource.Build(Microsoft.Extensions.Configuration.IConfigurationBuilder)
+  fullName: MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource.Build(Microsoft.Extensions.Configuration.IConfigurationBuilder)
+  nameWithType: PlaceholderJsonConfigurationSource.Build(IConfigurationBuilder)
+- uid: MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource.Build*
+  name: Build
+  href: api/MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource.html#MoreNet_PlaceholderConfiguration_PlaceholderJsonConfigurationSource_Build_
+  commentId: Overload:MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource.Build
+  isSpec: "True"
+  fullName: MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource.Build
+  nameWithType: PlaceholderJsonConfigurationSource.Build

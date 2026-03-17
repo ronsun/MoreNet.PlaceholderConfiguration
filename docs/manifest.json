@@ -1,0 +1,150 @@
+{
+  "source_base_path": "C:/Users/Ron/Desktop/MyGithub/MoreNet.PlaceholderConfiguration/tools/MoreNet.PlaceholderConfiguration.DocFx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions",
+      "Summary": "<p sourcefile=\"api/MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions.yml\" sourcestartlinenumber=\"1\">Extensinos for <xref href=\"MoreNet.PlaceholderConfiguration.Extensions.ConfigurationBuilderExtensions\" data-throw-if-not-resolved=\"false\"></xref>.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MoreNet.PlaceholderConfiguration.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MoreNet.PlaceholderConfiguration.Extensions.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MoreNet.PlaceholderConfiguration.Extensions",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider",
+      "Summary": "<p sourcefile=\"api/MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationProvider.yml\" sourcestartlinenumber=\"1\">A JSON file based <xref href=\"Microsoft.Extensions.Configuration.FileConfigurationProvider\" data-throw-if-not-resolved=\"false\"></xref> with placeholder in specific format will replaced by environment variables.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource",
+      "Summary": "<p sourcefile=\"api/MoreNet.PlaceholderConfiguration.PlaceholderJsonConfigurationSource.yml\" sourcestartlinenumber=\"1\">Represents a JSON file as an <xref href=\"Microsoft.Extensions.Configuration.IConfigurationSource\" data-throw-if-not-resolved=\"false\"></xref> with placeholder in specific format will replaced by environment variables.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MoreNet.PlaceholderConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MoreNet.PlaceholderConfiguration.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MoreNet.PlaceholderConfiguration",
+      "Summary": null
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html"
+        },
+        ".json": {
+          "relative_path": "articles/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

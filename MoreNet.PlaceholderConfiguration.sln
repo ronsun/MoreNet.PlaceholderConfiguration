@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
 	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tools", "tools", "{07C2787E-EAC7-C090-1BA3-A61EC2A24D84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreNet.PlaceholderConfiguration.DocFx", "tools\MoreNet.PlaceholderConfiguration.DocFx\MoreNet.PlaceholderConfiguration.DocFx.csproj", "{1ED1BC78-A019-432A-8791-5511D0BEB4BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,9 +30,16 @@ Global
 		{239F2653-5A03-462C-BE28-E4DBFC1E0ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{239F2653-5A03-462C-BE28-E4DBFC1E0ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{239F2653-5A03-462C-BE28-E4DBFC1E0ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ED1BC78-A019-432A-8791-5511D0BEB4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED1BC78-A019-432A-8791-5511D0BEB4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED1BC78-A019-432A-8791-5511D0BEB4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED1BC78-A019-432A-8791-5511D0BEB4BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1ED1BC78-A019-432A-8791-5511D0BEB4BA} = {07C2787E-EAC7-C090-1BA3-A61EC2A24D84}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DCCB2640-EAC8-4BCA-9392-3ACDA226B67F}

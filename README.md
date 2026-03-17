@@ -56,3 +56,6 @@ SERVER_IP=1.1.1.1
 
 ### Demo
 [Demo Project](MoreNet.PlaceholderConfiguration.Demo)
+
+### Others
+See [API Doc](https://ronsun.github.io/MoreNet.PlaceholderConfiguration/api) for APIs.
